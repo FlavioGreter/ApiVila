@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/flaviogretter/.dotnet/store/|arch|/|tfm|",
+      "/Users/flaviogretter/.nuget/packages"
+    ]
+  }
+}

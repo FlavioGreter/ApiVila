@@ -1,0 +1,12 @@
+/Users/flaviogretter/Documents/_projetos/ApiVila/src/ApiVila.Data/bin/Debug/net5.0/Data.deps.json
+/Users/flaviogretter/Documents/_projetos/ApiVila/src/ApiVila.Data/bin/Debug/net5.0/Data.dll
+/Users/flaviogretter/Documents/_projetos/ApiVila/src/ApiVila.Data/bin/Debug/net5.0/ref/Data.dll
+/Users/flaviogretter/Documents/_projetos/ApiVila/src/ApiVila.Data/bin/Debug/net5.0/Data.pdb
+/Users/flaviogretter/Documents/_projetos/ApiVila/src/ApiVila.Data/obj/Debug/net5.0/Data.csprojAssemblyReference.cache
+/Users/flaviogretter/Documents/_projetos/ApiVila/src/ApiVila.Data/obj/Debug/net5.0/Data.GeneratedMSBuildEditorConfig.editorconfig
+/Users/flaviogretter/Documents/_projetos/ApiVila/src/ApiVila.Data/obj/Debug/net5.0/Data.AssemblyInfoInputs.cache
+/Users/flaviogretter/Documents/_projetos/ApiVila/src/ApiVila.Data/obj/Debug/net5.0/Data.AssemblyInfo.cs
+/Users/flaviogretter/Documents/_projetos/ApiVila/src/ApiVila.Data/obj/Debug/net5.0/Data.csproj.CoreCompileInputs.cache
+/Users/flaviogretter/Documents/_projetos/ApiVila/src/ApiVila.Data/obj/Debug/net5.0/Data.dll
+/Users/flaviogretter/Documents/_projetos/ApiVila/src/ApiVila.Data/obj/Debug/net5.0/ref/Data.dll
+/Users/flaviogretter/Documents/_projetos/ApiVila/src/ApiVila.Data/obj/Debug/net5.0/Data.pdb
