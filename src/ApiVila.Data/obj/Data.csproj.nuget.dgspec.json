@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/flaviogretter/Documents/_projetos/ApiVila/src/ApiVila.Data/Data.csproj": {}
+    "/Users/flaviogretter/Documents/_projetos/teste/ApiVila/src/ApiVila.Data/Data.csproj": {}
   },
   "projects": {
-    "/Users/flaviogretter/Documents/_projetos/ApiVila/src/ApiVila.Data/Data.csproj": {
+    "/Users/flaviogretter/Documents/_projetos/teste/ApiVila/src/ApiVila.Data/Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/flaviogretter/Documents/_projetos/ApiVila/src/ApiVila.Data/Data.csproj",
+        "projectUniqueName": "/Users/flaviogretter/Documents/_projetos/teste/ApiVila/src/ApiVila.Data/Data.csproj",
         "projectName": "Data",
-        "projectPath": "/Users/flaviogretter/Documents/_projetos/ApiVila/src/ApiVila.Data/Data.csproj",
+        "projectPath": "/Users/flaviogretter/Documents/_projetos/teste/ApiVila/src/ApiVila.Data/Data.csproj",
         "packagesPath": "/Users/flaviogretter/.nuget/packages/",
-        "outputPath": "/Users/flaviogretter/Documents/_projetos/ApiVila/src/ApiVila.Data/obj/",
+        "outputPath": "/Users/flaviogretter/Documents/_projetos/teste/ApiVila/src/ApiVila.Data/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/flaviogretter/.nuget/NuGet/NuGet.Config"
@@ -37,6 +37,12 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.5, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

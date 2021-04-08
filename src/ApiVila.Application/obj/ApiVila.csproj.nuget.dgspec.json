@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/flaviogretter/Documents/_projetos/ApiVila/src/ApiVila.Application/ApiVila.csproj": {}
+    "/Users/flaviogretter/Documents/_projetos/teste/ApiVila/src/ApiVila.Application/ApiVila.csproj": {}
   },
   "projects": {
-    "/Users/flaviogretter/Documents/_projetos/ApiVila/src/ApiVila.Application/ApiVila.csproj": {
+    "/Users/flaviogretter/Documents/_projetos/teste/ApiVila/src/ApiVila.Application/ApiVila.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/flaviogretter/Documents/_projetos/ApiVila/src/ApiVila.Application/ApiVila.csproj",
+        "projectUniqueName": "/Users/flaviogretter/Documents/_projetos/teste/ApiVila/src/ApiVila.Application/ApiVila.csproj",
         "projectName": "ApiVila",
-        "projectPath": "/Users/flaviogretter/Documents/_projetos/ApiVila/src/ApiVila.Application/ApiVila.csproj",
+        "projectPath": "/Users/flaviogretter/Documents/_projetos/teste/ApiVila/src/ApiVila.Application/ApiVila.csproj",
         "packagesPath": "/Users/flaviogretter/.nuget/packages/",
-        "outputPath": "/Users/flaviogretter/Documents/_projetos/ApiVila/src/ApiVila.Application/obj/",
+        "outputPath": "/Users/flaviogretter/Documents/_projetos/teste/ApiVila/src/ApiVila.Application/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/flaviogretter/.nuget/NuGet/NuGet.Config"

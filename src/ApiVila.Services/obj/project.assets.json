@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/flaviogretter/Documents/_projetos/ApiVila/src/ApiVila.Services/Services.csproj",
+      "projectUniqueName": "/Users/flaviogretter/Documents/_projetos/teste/ApiVila/src/ApiVila.Services/Services.csproj",
       "projectName": "Services",
-      "projectPath": "/Users/flaviogretter/Documents/_projetos/ApiVila/src/ApiVila.Services/Services.csproj",
+      "projectPath": "/Users/flaviogretter/Documents/_projetos/teste/ApiVila/src/ApiVila.Services/Services.csproj",
       "packagesPath": "/Users/flaviogretter/.nuget/packages/",
-      "outputPath": "/Users/flaviogretter/Documents/_projetos/ApiVila/src/ApiVila.Services/obj/",
+      "outputPath": "/Users/flaviogretter/Documents/_projetos/teste/ApiVila/src/ApiVila.Services/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/flaviogretter/.nuget/NuGet/NuGet.Config"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NceYgmS0FLrQXFyPr8RZ2Wj8BUyo76v23rY4Nn4GjK+ue02FAACoLUvIcVYSxptT0kPEjfCFlAxdWUE8DiO02Q==",
+  "dgSpecHash": "4aE/RcT5gWPxjj5MS04YvTc0OI4FM8eghblT12BhCy0i7avKvJymcC6MyBQGoxT+mFgh8c3m0OdGWQQSOQEv5Q==",
   "success": true,
-  "projectFilePath": "/Users/flaviogretter/Documents/_projetos/ApiVila/src/ApiVila.Domain/Domain.csproj",
+  "projectFilePath": "/Users/flaviogretter/Documents/_projetos/teste/ApiVila/src/ApiVila.Domain/Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
